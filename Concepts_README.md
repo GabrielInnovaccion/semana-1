@@ -18,7 +18,7 @@ renta de infraestructura. En términos simples, la nube permite almacenar y acce
 *Iaas*: La infraestructura como servicio (IaaS), también conocida como servicios de infraestructura en la nube, es una forma de cloud computing que ofrece a los usuarios finales una infraestructura de TI a través de Internet.
 
 
-#Arquitectura de computadoras (y usualmente de servidores)
+# Arquitectura de computadoras (y usualmente de servidores)
 
 ![image](https://user-images.githubusercontent.com/83686752/119065894-33d05b00-b9a4-11eb-8cf3-d5fabd5e1a70.png)
 
