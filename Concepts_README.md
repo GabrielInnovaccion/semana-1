@@ -53,10 +53,24 @@ Una dirección IP es un número que identifica de forma única a una interfaz en
   - Clase B: 172.16.0.0 a 172.31.255.255.
   - Clase C: 192.168.0.0 a 192.168.255.255.
   
+  ![image](https://user-images.githubusercontent.com/83686752/119066654-d9d09500-b9a5-11eb-9763-fcb993e3710e.png)
+
+  
 # Big Data 
 
 Big Data hace referencia a las técnicas relacionadas con el manejo y procesamiento de cantidades masivas de datos. El big data está condicionado de tres principales aspectos los cuales suelen ser llamdos las tres V's, ya que para que los datos sean considerados parte del concepto "Big Data" los datos tienen que tener Velocidad (datos stream), Variedad (diferentes tipos de datos), y Volumen (ya que tienen que ser demasiados datos). Generalmente se emplean las técnicas en bases de datos NoSQL pero también en SQL.
 
+![image](https://user-images.githubusercontent.com/83686752/119066674-e8b74780-b9a5-11eb-8409-c48bd261e2b0.png)
+
+
 # Ciencia de Datos
 
 La ciencia de datos es un campo de estudio que surge de tres principales campos los cuales son, las matemáticas, la ciencias de la computación y del entendimiento del negocio. La ciencia de datos está basada en encontrar información y patrones aplicando técnicas de modelos estadísticos y Machine Learning, es por eso importante contar con un amplio conocimiento en matemáticas y de ciencias de la computación ya que los cálculos y predicciones son hechas en lenguajes de programación. La IA y el Machine Learning son subcampos de la Ciencia de datos. 
+
+# Front-End
+
+El desarrollo web Front-end consiste en la conversión de datos en una interfaz gráfica para que el usuario pueda ver e interactuar con la información de forma digital usando HTML, CSS y JavaScript.
+
+# Back-End
+
+Back-End es la parte o rama del desarrollo web encargada de que toda la lógica de una página funcione. Consiste en el conjunto de acciones que pasan dentro de una web, pero que no podemos ver. Un ejemplo de esto es la comunicación con el servidor.
