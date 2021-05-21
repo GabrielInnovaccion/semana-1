@@ -53,10 +53,10 @@ Una dirección IP es un número que identifica de forma única a una interfaz en
   - Clase B: 172.16.0.0 a 172.31.255.255.
   - Clase C: 192.168.0.0 a 192.168.255.255.
   
-#Big Data 
+# Big Data 
 
 Big Data hace referencia a las técnicas relacionadas con el manejo y procesamiento de cantidades masivas de datos. El big data está condicionado de tres principales aspectos los cuales suelen ser llamdos las tres V's, ya que para que los datos sean considerados parte del concepto "Big Data" los datos tienen que tener Velocidad (datos stream), Variedad (diferentes tipos de datos), y Volumen (ya que tienen que ser demasiados datos). Generalmente se emplean las técnicas en bases de datos NoSQL pero también en SQL.
 
-#Ciencia de Datos
+# Ciencia de Datos
 
 La ciencia de datos es un campo de estudio que surge de tres principales campos los cuales son, las matemáticas, la ciencias de la computación y del entendimiento del negocio. La ciencia de datos está basada en encontrar información y patrones aplicando técnicas de modelos estadísticos y Machine Learning, es por eso importante contar con un amplio conocimiento en matemáticas y de ciencias de la computación ya que los cálculos y predicciones son hechas en lenguajes de programación. La IA y el Machine Learning son subcampos de la Ciencia de datos. 
